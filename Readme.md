@@ -1,4 +1,5 @@
 ##Amaç
+
 Bir kaç kalem ekleyerek oluşturduğumuz siparişin Toplam tutarını, Kdv toplamını, indirim tutarını vs hesaplamak istiyoruz.
 
 Bu çerçevede oluşturduğumuz Order ve OrderDetail class'larını kullanacağız. 
