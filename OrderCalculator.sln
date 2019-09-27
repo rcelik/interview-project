@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderCalculator", "OrderCalculator\OrderCalculator.csproj", "{30AAD034-28DC-477F-9747-C2C3F05487FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D74CD669-3C85-4880-A3DE-F12155B447D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1C09BFEE-1F64-4CFC-8135-D4A9007D086E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30AAD034-28DC-477F-9747-C2C3F05487FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AAD034-28DC-477F-9747-C2C3F05487FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AAD034-28DC-477F-9747-C2C3F05487FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AAD034-28DC-477F-9747-C2C3F05487FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74CD669-3C85-4880-A3DE-F12155B447D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74CD669-3C85-4880-A3DE-F12155B447D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74CD669-3C85-4880-A3DE-F12155B447D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74CD669-3C85-4880-A3DE-F12155B447D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C09BFEE-1F64-4CFC-8135-D4A9007D086E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C09BFEE-1F64-4CFC-8135-D4A9007D086E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C09BFEE-1F64-4CFC-8135-D4A9007D086E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C09BFEE-1F64-4CFC-8135-D4A9007D086E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
