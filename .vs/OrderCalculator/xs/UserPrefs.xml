@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Test FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.OrderCalculator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Core FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Test/OrderBuilder.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/UnitTest1.cs">
     <Files>
       <File FileName="OrderCalculator/Program.cs" Line="1" Column="1" />
       <File FileName="OrderCalculator/Model/Order.cs" Line="21" Column="1" />
@@ -10,19 +10,16 @@
       <File FileName="OrderCalculator/Model/OrderDetailFeature.cs" Line="16" Column="1" />
       <File FileName="OrderCalculator/Service/OrderCalculatorService.cs" Line="12" Column="2" />
       <File FileName="Core/Class1.cs" Line="1" Column="1" />
-      <File FileName="Test/UnitTest1.cs" Line="66" Column="22" />
-      <File FileName="Test/OrderBuilder.cs" Line="20" Column="114" />
+      <File FileName="Test/UnitTest1.cs" Line="31" Column="37" />
+      <File FileName="Test/OrderBuilder.cs" Line="25" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OrderCalculator" expanded="True">
-            <Node name="Core" expanded="True">
-              <Node name="Model" expanded="True" />
-              <Node name="Service" expanded="True" />
-            </Node>
+            <Node name="Solution Items" expanded="True" />
             <Node name="Test" expanded="True">
-              <Node name="OrderBuilder.cs" selected="True" />
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
         </State>
