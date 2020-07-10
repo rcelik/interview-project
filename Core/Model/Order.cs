@@ -7,6 +7,7 @@ namespace Core.Model
     {
         public Order()
         {
+          this.OrderDetails = new List<OrderDetail>();
         }
 
         public int Id { get; set; }
